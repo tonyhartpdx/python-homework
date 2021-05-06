@@ -2,7 +2,7 @@
 
 **University of Washington Fintech**
 
-**Unit 2**| Homework Assignment: Automate Your Day Job with Python
+**Unit 2| Homework Assignment: Automate Your Day Job with Python
 
 **PyBank**: Created a Python script for analyzing the financial records using JupyterLab. 
 
